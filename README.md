@@ -28,6 +28,12 @@ A few things to keep in mind:
   
 ---
 
+## 🙏 Acknowledgements
+I would like to sincerely thank [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) Sir and the [VLSI System Design](https://vsdiat.vlsisystemdesign.com/) team for providing the resources, guidance, and motivation to go through this program, and for giving me the opportunity to learn from this experience.<br>
+I would also like to acknowledge the creators and contributors of the open-source software tools that made this project possible, including **Ubuntu**, **Icarus Verilog**, **Yosys**, and **GTKWave**. Your work enables learners like me to experiment, explore, and grow.
+
+---
+
 ## 📜 License
 This project is licensed under the **MIT License** – see [LICENSE](./LICENSE) for details.<br><br>
 In simple terms:
