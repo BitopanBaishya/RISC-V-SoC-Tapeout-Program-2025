@@ -1,7 +1,7 @@
 # 🏛️ RISC-V SoC Tapeout Program 2025
 
 Welcome!  
-This repository serves as the **master repository** for my 20-week VSD Tapeout Program (2025). It contains documentation of the tasks, labs and notes in the form of a weekly repository.
+This repository serves as the **master repository** for the documention of my learnings in the 20-week Risc-V SoC Tapeout Program (2025). It contains documentation of the tasks, labs and notes in the form of a weekly repository.
 
 Each week of this program involves:
 - 📚 Learning from provided resources  
