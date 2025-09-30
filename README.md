@@ -15,15 +15,8 @@ Visitors can simply expand the dropdown menus below to explore the work done in 
 ---
 
 ## 📑 Weekly Repositories
-
-<details>
-<summary>Week 0 – Environment Setup/Installation of Tools</summary>
-🔗 [Go to Week 0 Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-0/blob/main/README.md)
-</details>
-<details>
-<summary>Week 1 – Introduction to RTL Design Flow </summary>
-🔗 [Go to Week 1 Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-1/blob/main/README.md)
-</details>
+- Week 0 – Environment Setup/Installation of Tools. [Learn more](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-0/blob/main/README.md)
+- Week 1 – Introduction to RTL Design Flow. [Learn more](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-1/blob/main/README.md)
 
 ---
 
