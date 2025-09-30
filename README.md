@@ -30,3 +30,10 @@ Visitors can simply expand the dropdown menus below to explore the work done in 
 This repository is open-sourced under the **MIT License**.  
 You are free to use the contents with proper attribution.  
 
+---
+
+## 📬 Get in Touch
+I’m always open to feedback, corrections, and discussions!<br>
+Since I am also learning from scratch, there might be errors anywhere in the work. Please don’t hesitate to let me know if you spot any mistakes—it will help me improve and learn better. Feel free to drop me an email: [bitopanbaishya2@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtWvNdBrTmwjqjXrRKbQrkkSQrBwrqqCPMqGpVPPfLLjHBsSfktkJLpfFMWXRRFMMBwfDr)<br><br>
+If you find this repository useful, do share it with your peers—whether they’re also starting out, or might have valuable insights to contribute.<br><br>
+Let’s learn and build together 🚀
