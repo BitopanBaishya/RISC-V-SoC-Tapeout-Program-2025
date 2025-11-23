@@ -31,7 +31,7 @@ A few things to keep in mind:
 - Week 5 – OpenROAD Flow Setup and Floorplan + Placement. [Check here](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-5/blob/main/README.md)
 - Week 6 – Physical Design Workshop. (Will be updated soon)
 - Week 7 – BabySoC Physical Design & Post-Route SPEF Generation. [Check here](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-7/blob/main/README.md)
-- Week 8 – Post-Layout STA & Timing Graphs Across PVT Corners for Routed VSDBabySoC. [Check here](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-7/blob/main/README.md)
+- Week 8 – Post-Layout STA & Timing Graphs Across PVT Corners for Routed VSDBabySoC. [Check here](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-8/blob/main/README.md)
   
 ---
 
