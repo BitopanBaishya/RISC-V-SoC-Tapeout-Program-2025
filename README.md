@@ -26,8 +26,8 @@ A few things to keep in mind:
 - Week 0 – Environment Setup/Installation of Tools. [Learn more](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-0/blob/main/README.md)
 - Week 1 – Introduction to RTL Design Flow. [Learn more](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025---Week-1/blob/main/README.md)
 - Week 2 – Fundamentals of SoC, Introduction to VSDBabySoC & its Functional Modelling. [Learn more](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-2/blob/main/README.md)
-- Week 3 - Post Synthesis GLS and STA Fundamentals. [Learn more](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-3/blob/main/README.md)
-- Week 4: CMOS Circuit Design (sky130-style). [Learn more](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-4/blob/main/README.md)
+- Week 3 – Post Synthesis GLS and STA Fundamentals. [Learn more](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-3/blob/main/README.md)
+- Week 4 – CMOS Circuit Design (sky130-style). [Learn more](https://github.com/BitopanBaishya/RISC-V-SoC-Tapeout-Program-2025---Week-4/blob/main/README.md)
   
 ---
 
