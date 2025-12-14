@@ -1,7 +1,7 @@
 # 🏛️ RISC-V SoC Tapeout Program 2025
 
 Welcome!  
-This repository serves as the **master repository** for the documention of my learnings in the 20-week Risc-V SoC Tapeout Program (2025). It contains documentation of the tasks, labs and notes in the form of a weekly repository.
+This repository serves as the **master documentation hub** for **Phase 1** of my journey in the **RISC-V SoC Reference Tapeout Program 2025**. It contains documentation of the tasks, labs and notes in the form of a weekly repository. In the phase 1, we basically completed the entire physical design flow of the VSDBabySoC using all opensource tools.
 
 Each week of this program involves:
 - 📚 Learning from provided resources.
@@ -9,7 +9,7 @@ Each week of this program involves:
 - 📝 Documenting progress and challenges.
 - 💾 Maintaining a **separate GitHub repository** for each week’s work.
 
-This **master repository** provides a structured and organized way to navigate through all the weekly repositories from **Week 0** to **Week 20**.
+This **master repository** provides a structured and organized way to navigate through all the weekly repositories from **Week 0** to **Week 9**.
 
 ---
 
